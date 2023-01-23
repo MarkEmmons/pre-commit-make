@@ -1,0 +1,6 @@
+-   id: gnu-make
+    name: "run GNU make"
+    entry: make
+    language: system
+    always_run: true
+    pass_filenames: false
